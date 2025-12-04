@@ -1,0 +1,26 @@
+# Gemini API - Official Google Generative AI SDK
+google-genai>=0.2.0
+
+# Optional: For video processing/compression (if needed)
+# opencv-python>=4.8.0
+# ffmpeg-python>=0.2.0
+
+# Optional: For advanced features
+# python-dotenv>=1.0.0  # For loading .env files with API keys
+# requests>=2.31.0  
+
+python-dotenv
+
+
+
+streamlit
+requests
+
+
+
+
+
+
+fastapi
+uvicorn[standard]
+python-multipart
