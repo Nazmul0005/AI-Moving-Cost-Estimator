@@ -9,7 +9,7 @@
 
 An intelligent moving cost estimation system powered by Google's Gemini AI that analyzes home videos to automatically inventory furniture and calculate accurate moving costs.
 <p align="center">
-  <img src="image1.png" alt="Project Screenshot" width="500"/><img src="image2.png" alt="Project Screenshot" width="500"/>
+  <img src="image1.png" alt="Project Screenshot" width="480"/><img src="image2.png" alt="Project Screenshot" width="480"/>
 </p>
 ## 📋 Overview
 
